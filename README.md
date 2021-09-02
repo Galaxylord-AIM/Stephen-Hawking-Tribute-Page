@@ -29,4 +29,4 @@ You can build your project by using this CodePen template and clicking Save to c
 
 Once you're done, submit the URL to your working project with all its tests passing.
 
-Solution [https://codepen.io/galaxylord-aim/pen/OJgNjOr]
+Solution: https://codepen.io/galaxylord-aim/pen/OJgNjOr
