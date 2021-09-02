@@ -1,6 +1,6 @@
 # Stephen-Hawking-Tribute-Page
 
-Build a Tribute PagePassed
+**Build a Tribute PagePassed**
 Objective: Build a CodePen.io app that is functionally similar to this: https://codepen.io/freeCodeCamp/full/zNqgVx.
 
 Fulfill the below user stories and get all of the tests to pass. Give it your own personal style.
@@ -29,4 +29,4 @@ You can build your project by using this CodePen template and clicking Save to c
 
 Once you're done, submit the URL to your working project with all its tests passing.
 
-Solution: https://codepen.io/galaxylord-aim/pen/OJgNjOr
+[Solution](https://codepen.io/galaxylord-aim/pen/OJgNjOr)
